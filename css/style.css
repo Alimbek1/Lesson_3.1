@@ -1,0 +1,67 @@
+* {
+   color: #000;
+}
+
+h1 {
+   color: red;
+}
+
+p {
+   color: blue;
+}
+
+h2 {
+   color: blueviolet;
+}
+
+h3 {
+   color: brown;
+}
+
+main {
+   color: orange;
+}
+
+.text {
+   color: deeppink;
+}
+
+.text1 {
+   color: rgb(36, 17, 141);
+}
+
+.h4 {
+   color: crimson;
+}
+
+span {
+   color: darkblue;
+}
+
+footer span {
+   color: green;
+}
+
+ul li {
+   color: darkblue;
+}
+
+.li {
+   color: darkgreen;
+}
+
+#li {
+   color: rgb(128, 0, 38);
+}
+
+.ul.li {
+   color: deeppink;
+}
+
+.h3+p {
+   color: rgb(231, 212, 245);
+}
+
+li span {
+   color: aqua;
+}
